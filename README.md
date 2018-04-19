@@ -10,6 +10,12 @@ Criar um novo env:
 	mkvirtualenv --python=python3 lambda-samples
 
 
+Instalar dependências:
+
+
+	pip install -r requirements.txt
+
+
 
 Entrar na pasta:
 
